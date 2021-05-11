@@ -30,6 +30,11 @@ const App = () => {
             <Typography variant="h5" align="center" color="textSecondary" paragraph>
               Hello everyone This is a photo album adn i'm trying to make this sentence as long as possible so we can see how does it look like on the screen
             </Typography>
+            <div>
+              <Grid container spacing={2} >
+
+              </Grid>
+            </div>
           </Container>
         </div>
       </main>
@@ -40,4 +45,5 @@ const App = () => {
 export default App;
 
 // meterial-ui.com
-// 데모, 소스, 설명 : component
+// 데모, 소스, 가이드 : component
+// 구성요소 참조 docs : component api
